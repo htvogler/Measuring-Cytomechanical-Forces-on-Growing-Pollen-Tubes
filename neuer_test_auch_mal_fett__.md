@@ -12,5 +12,6 @@ und numeriert:
 1. 1.mach mal pause
 
 1. versuchs nochmal
-2. 
+
 und eine tabelle
+
