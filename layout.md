@@ -1,1 +1,2 @@
 Introduction_Effects_of_mechanical_forces__.md
+General_Force_measurement_approaches_Summary__.md
