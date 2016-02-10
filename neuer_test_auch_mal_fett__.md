@@ -1,6 +1,6 @@
 *neuer* test. auch mal **fett**.
 
-* *erstens
+* erstens
 
 * zweitens
 
@@ -9,6 +9,8 @@
 
 und numeriert:
 
-1.mach mal pause
+1. 1.mach mal pause
 
-versuchs nochmal
+1. versuchs nochmal
+2. 
+und eine tabelle
