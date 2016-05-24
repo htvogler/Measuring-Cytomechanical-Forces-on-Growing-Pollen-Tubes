@@ -7,6 +7,7 @@
 ###Pressure Probe
 
 ###Extensometer
+Cosgrove lab: Durachko & Cosgrove, 2009; Nieuwland *et al.*, 2005
 
 ###Penetration Force
 Sanati Nezhad & Geitmann, 2013
