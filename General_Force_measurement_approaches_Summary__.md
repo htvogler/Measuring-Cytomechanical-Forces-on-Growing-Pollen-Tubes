@@ -8,7 +8,7 @@
 Obermeyer lab
 
 ###Penetration Force
-Sanati Nezhad & Geitmann, 2013
+Sanati Nezhad & Geitmann, 2013, Money used optical tweezers on fungal hyphae
 
 ##Indentation methods
 
