@@ -8,9 +8,9 @@
 
 ##Dairy products
 
-##Tip growth
-
 ##Prevention of cross-fertilization
+
+##Tip growth
 
 ###Pollen tubes
 
