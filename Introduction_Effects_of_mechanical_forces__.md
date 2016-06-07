@@ -1,20 +1,13 @@
 #Introduction
 
-##Effects of mechanical forces on gene expression
+Cytomechanics as a discipline in biology has been smoldering through many decades. In the last twenty years, however, the scientific community has seen an explosion of publications dealing with biomechanical questions at the tissue as well as at the cellular level. One reason for this is the improvement of the instruments that are required to measure the tiny forces that are exerted by individual cells, such as miniaturized, extremely sensitive force sensors and precise positioning systems.
 
-##Crop Lodging
+Why is it interesting to study biomechanics? Naively, one would assume that the biomechanical properties of individual cells or tissues are important to define the shape and size of an organism. This is true but there is much more to it. Mechanical disturbances can alter the gene expression patterns and interfere with morphogenesis. The magnitude and direction of the forces acting on stem cells influence their differentiation fate. Tumor cells have been shown to possess different mechanical properties than their normal counterparts.
 
-##Paper industry
+Agriculture and the dairy industry are also struggling with diverse biomechanical problems. Reduction of the lignin content in maize, for example, has a direct implication for the profitability in dairy production. The brown midrib mutation has a lower lignin content, which leads to a better digestibility and, therefore, higher production of milk in dairy cattle. Due to lodging, however, yield can be severely reduced under unfavorable weather conditions. Crop lodging is a world-wide problem that can  destroy entire harvests locally, simply because the plant stems are not stable enough. Up to now, the countermeasure is to shorten the plants, either by breeding or by the use of growth regulators. A better understanding of the mechanical properties of individual cell wall components could help to develop more stable plants that reach their full yield potential.
 
-##Dairy products
+Tip growth, as an extreme form of polarized cell growth occurs in algae, fungi and plants. Tip-growing cells play pivotal roles in the life style of those organisms employing it. Fungal hyphae can spread over incredible distances and build the supposedly largest organisms on the planet. In the form of haustoria they penetrate host cells. Plant root hairs are essential to guarantee sufficient supply with nutrients by increasing the root surface tremendously. Arguably the most amazing cells, though, are pollen tubes. Their only function is to deliver the male gametes to the ovule to ensure double fertilization and this they do by growing at incredible speeds to massive lengths, reaching length-to-diameter ratios far beyond 1000:1.
 
-##Prevention of cross-fertilization
+The pollen tube is an especially well-suited model to study the mechanical properties of tip-growing plant cells. Cell expansion is a complex process involving the fine-tuned interplay between a driving force that increases the volume of the cell and a containment that limits this expansion. The role of the driving force is taken on by the turgor, the cell's internal hydrostatic pressure. The surrounding cell wall controls expansion by yielding and the continuous incorporation of new cell wall material to reinforce the weakened parts. In plants with a solid stigma and style, like *Arabidopsis* , the pollen tube has to penetrate a stigmatic cell and then navigate through a maze of female cells within the transmitting tract before leaving this tissue and grow along the funicular to the micropylar opening of the ovule. Within the transmitting tract pollen tubes find there ways between the female cells but they can also penetrate cells and grow between the cell wall and the plasma membrane or even within the cell wall. The situation presents itself totally different in plants with hollow styles, such as lilies. Here, the pollen tubes adhere to and grow along the transmitting tract epidermis that lines the inner part of the style. 
 
-##Tip growth
-
-###Pollen tubes
-
-###Roots
-
-###Fungal hyphae
-Review of work from Mooney
+While chemoattractants lure the pollen tubes towards their destination, it's mechanosensing that make them aware of obstacles and let them decide if they want to go with the head through the wall by penetrating a cell or rather choose an avoidance strategy, change growth direction and skirt the obstruction. Mechanical forces already play a role in the very first step of pollination. Strong adhesion between the pollen grain and the stigmatic cell is necessary for successful pollen germination, which is usually only the case for compatible pollen. 
