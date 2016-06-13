@@ -1,5 +1,7 @@
 #Improvements
 
+Several improvements have been proposed for increasing the throughput of micro-indentation.
+
 ##Micro-channels
 Uni-directional guidance and improvements in cellular adhesion, for large micromechanical data collection
 
