@@ -6,8 +6,6 @@ Mechanical measurements of plant cells and tissues imposes  various technical ch
 
 Stiffness measurements taken under the conditions used by the CFM and other microindentation systems do not only reflect the mechanical properties of the cell wall but are strongly influenced by turgor pressure, cell and indenter geometry as well as stresses in the cell wall prior to indentation. Hence, the measured values are referred to as the "apparent stiffness" **REF**. A finite element method-based modeling approach enables disentangling the effects of turgor pressure and cell wall stiffness. In addition to measuring the apparent stiffness it relies on the assessment of several geometrical parameters, such as the initial stretch ration, which is correlated to the wall stress under pressure prior to indentation. This can be easily measured by comparing the diameter of a pollen tube before and after plasmolysis. Cell wall thickness is more difficult to measure. To get accurate values it is necessary to analyse electron microscopy images
 
-##CFM introduction (Dimitris' and Kuhlemeier's papers)
-
 ##CFM measurements on pollen tubes
 
 ###Lily experiments
