@@ -17,6 +17,7 @@ First experiments on pollen tubes were performed by \cite{Vogler2013a}. CFM meas
 
 ##AFM measurements on pollen tubes
 Wu 2008
+Own results
 - Topography 
 - Indentation
 
