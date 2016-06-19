@@ -16,6 +16,9 @@ First experiments on pollen tubes were performed by \cite{Vogler2013a}. CFM meas
 ###Arabidopsis experiments
 
 ##AFM measurements on pollen tubes
+Wu 2008
+- Topography 
+- Indentation
 
 ##Limitations of the CFM approach
 While the CFM has contributed significantly to mechanical investigation of single plant cells \cite{Vogler_2012, Weber_2015}, experimental challenges still remain in high-throughput measurements of the micromechanics of growing pollen tubes. Firstly, ensuring sufficient substrate adhesion and localization of the fast-growing tip of the pollen tube is a major challenge for micro-indentation. While single cells, like yeasts or oocytes, that exhibit isotropic or near-isotropic growth can be immobilized by growing on solid growth medium \cite{De_2010}, trapping in surface-patterned wells \cite{Ng_2007, Kailas_2009} or by capillary aspiration \cite{Yu_Sun_2003}, the rapid and three-dimensional nature of pollen tube growth renders such immobilization techniques unusable. Morever conventional _in vitro_ growth assays, lead to disordered growth and entanglement of tubes \cite{Yetisen_2011}, leading to considerable amounts of operator time to position the indentor for measurements at the required spot \cite{Felekis_2015}. This makes difficult the development of automation tools to pre-plan the position, number of measurement points and trajectory of the microindentor, consequently lowering the measurement throughput.
