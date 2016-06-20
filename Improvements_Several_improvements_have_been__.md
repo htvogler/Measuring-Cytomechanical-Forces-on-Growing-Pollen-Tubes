@@ -3,9 +3,8 @@
 Several improvements have been proposed to overcome the aforementioned challenges to increasing the throughput of micro-indentation. The increased efficiency of quantitative data collection will enable generation of statistical micromechanical datasets for deciphering the complex chemo-mechanical process of fast tip growth in pollen tubes. 
 
 ##Micro-channels
-Microfluidic technology has evolved into a powerful tool to monitor and control the microenvironment around single cells. It has been recently applied to investigate polarized growth in neuronal axons, in filamentous fungal hyphae and in pollen tubes, by isolating the tip-growing region from the rest of the cell body \cite{Taylor_2005, Geng_2015, Agudelo_2013}. We demonstrate the use of a microfluidic platform to guide, parallelly close-pack vertically and laterally the growth of individual tubes and enable increased cellular adhesion and stability of micro-indentation. Morever the enhanced predictability of growth direction after emerging out of the microchannels allows for faster tip positioning and measurement.
+Microfluidics technology has evolved into a powerful tool to isolate and chemo-mechanically probe individual cells \cite{Nilsson_2009}. It has been recently applied to investigate polarized cell growth in neuronal axons, filamentous fungal hyphae and in pollen tubes, by isolating the tip-growing region from the rest of the cell body \cite{Taylor_2005, Geng_2015, Agudelo_2013}. We demonstrate the use of a microfluidic platform to guide, parallelly close-pack, both vertically and laterally, the growth of individual tubes. This enables increased cellular adhesion and stability of micro-indentation. Morever the enhanced predictability of growth direction after emerging out of the microchannels allows for faster tip positioning and measurement.
 
-Uni-directional guidance and improvements in cellular adhesion, for large micromechanical data collection
 EMBC proceedings citation and (submitted manuscript JExpBot)
 
 ##Computer vision
