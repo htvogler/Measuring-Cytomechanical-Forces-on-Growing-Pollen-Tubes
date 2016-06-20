@@ -3,6 +3,8 @@
 Several improvements have been proposed to overcome the aforementioned challenges to increasing the throughput of micro-indentation. The increased efficiency of quantitative data collection will enable generation of statistical micromechanical datasets for deciphering the complex chemo-mechanical process of fast tip growth in pollen tubes. 
 
 ##Micro-channels
+Microfluidics technology to monitor and control the microenvironment around single cells. Microfluidic channels have also been used to isolate tip growing neuronal axons from the rest of the cell body \cite{Taylor_2005}. 
+We demonstrate the use of a microfludic platform to guide, parallelly close-pack the growth of individual tubes and enable increased cellular adhesion and stability of micro-indentation. Morever the increased predictability of growth direction after emerging out of the microchannels allow for faster tip positioning and measurement. 
 Uni-directional guidance and improvements in cellular adhesion, for large micromechanical data collection
 EMBC proceedings citation and (submitted manuscript JExpBot)
 
