@@ -11,9 +11,6 @@ Stiffness measurements taken under the conditions used by the CFM and other micr
 ##CFM measurements on pollen tubes
 First experiments on pollen tubes were performed by \cite{Vogler2013a}. CFM measurements on growing, fully turgid lily pollen tubes confirmed the apparent stiffness results from microindenter experiments with a soft apical region and gradually increasing stiffness that reached a plateau 20 µm behind the tip. FEM-based modeling was applied to extract the values for turgor pressure and cell wall elasticity by adjusting the material properties of the virtual cell wall until the modeled stiffness curve was in agreement with the measured values. Surprisingly, it was unnecessary to modify the elastic properties in the tip region to get an almost exact match, displaying a steep decrease in the apparent stiffness towards the very tip. This means, in other words, that the stiffness difference between the tip and the shank do not reflect the well-documented changes in cell wall composition but can be explained exclusively by the geometry of the cell and the contact angle between the probe tip and cell surface \cite{Vogler2013a, Routier-Kierzkowska2013a, Bolduc2006a}.
 
-###Lily experiments
-
-###Arabidopsis experiments
 
 ##AFM measurements on pollen tubes
 Wu 2008
