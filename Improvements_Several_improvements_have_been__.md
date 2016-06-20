@@ -1,6 +1,6 @@
 #Improvements
 
-Several improvements have been proposed for increasing the throughput of micro-indentation.
+Several improvements have been proposed to overcome the aforementioned challenges to increasing the throughput of micro-indentation. The increased efficiency of quantitative data collection will enable generation of statistical micromechanical datasets for deciphering the complex chemo-mechanical process of fast tip growth in pollen tubes. 
 
 ##Micro-channels
 Uni-directional guidance and improvements in cellular adhesion, for large micromechanical data collection
