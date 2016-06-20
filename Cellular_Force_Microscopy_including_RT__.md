@@ -13,9 +13,9 @@ First experiments on pollen tubes were performed by \cite{Vogler2013a}. CFM meas
 
 ##AFM measurements on pollen tubes
 
-The first reported AFM studies on pollen tubes was from Wu et al. \cite{Wu_2008}
-Wu 2008
-Own results
+The first reported AFM studies on pollen tubes was from Wu et al. \cite{Wu_2008}. The surface morphology of Indole-3-acetic acid (IAA) treated and control tubes of _Torenia fournieri_ were investigated by intermittent-contact mode imaging in air. The tubes were grown, chemical fixation and lyophilized by freeze drying before imaging. They concluded that in the presence of IAA, the ultrastructure changed subsequently modifying the cellulose microfibril content and orientation on the outer surface of the pollen tube, which they observed in the AFM scans at the tip and at the sub-apical region. 
+
+Own results ( I dont think I have enough results to conclude anything significant, than to show some topography images)
 - Topography 
 - Indentation
 
