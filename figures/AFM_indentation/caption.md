@@ -1,0 +1,1 @@
+A sample AFM force-indentation curve on the shank of lily pollen tube. The maximum indentation force is approximately 3nanonewtons while the indentation depth is around 150nm. 
