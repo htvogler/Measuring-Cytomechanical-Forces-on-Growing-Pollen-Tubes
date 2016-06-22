@@ -14,6 +14,5 @@ In optical and mechanical phenotyping assays, the ability to monitor individual 
 
 ##2-axis Force Sensors
 For possible deconvolution of geometry and biochemical difference. 
-
-\cite{Burri2016}
+\cite{Burri2016a}
 
