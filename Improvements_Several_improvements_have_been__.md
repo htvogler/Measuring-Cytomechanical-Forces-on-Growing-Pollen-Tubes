@@ -14,19 +14,5 @@ In optical and mechanical phenotyping assays, the ability to monitor individual 
 
 ##2-axis Force Sensors
 
-The gradient of apparent stiffness measured along the tube length in the apical region, has been attributed to a cell wall biochemical gradient \cite{Geitmann_2004a,Chebli_2012}, an effect of geometry and non-normal surface indentation \cite{Vogler_2012} or a convolution of both the previously mentioned effects \cite{Shamsudhin_2016}. 
-The deection of the tube resulted in an axial and lateral
-force acting on the sensor probe. The lateral forces came into
-dominance as soon as the tip of the tube was indented and
-continued up to the rst four microns. After that, no lateral
-forces were detected. The appearance of lateral force signals
-at the hemispherical region of the tip is a clear indication that
-the contact geometry is not 90 and that there is a geometry
-effect which cannot be decoupled by using a single-axis
-force sensor. These promising results show the signicance
-of dual-force micro indentations and indicate the importance
-of further biological investigations using this device.
-
-For possible deconvolution of geometry and biochemical difference. 
-\cite{Burri2016a}
+The gradient of apparent stiffness measured along the tube length, in the apical region, has been attributed to a cell wall biochemical gradient \cite{Geitmann_2004a,Chebli_2012}, an effect of geometry and non-normal surface indentation \cite{Vogler_2012} or a convolution of both the previously mentioned effects \cite{Shamsudhin_2016, Shamsudhin2016a}. The use of multi-axis force sensors may allow the deconvolution of these two effects. The design, fabrication and calibration of multi-axis microNewton force sensors have been reported in literature \cite{Beyeler_2009, Muntwyler_2009}. We highlight the preliminary results of micro-indentation performed on lily pollen tubes with a 2-D force sensor \cite{Burri_2016}. The sensor converts the axial and lateral force at the probe tip to an independent change in deflection of orthogonal comb drives (Fig xx.c). The comb drives convert the displacement change to a differential change in capacitance that can be read out using on-board electronics. During vertical indentation of the pollen tube, both vertical and lateral forces are simultaneously detected in the region from the very apex of the tube to four microns along the tube length. No measurable lateral forces were observed beyond this area. The measurement of lateral forces at the tip dome is an indication of a non-normal contact angle. These promising results on the use of 2-D sensors is currently being pursued further. 
 
