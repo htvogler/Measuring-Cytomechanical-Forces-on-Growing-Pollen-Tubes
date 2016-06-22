@@ -14,7 +14,7 @@ In optical and mechanical phenotyping assays, the ability to monitor individual 
 
 ##2-axis Force Sensors
 
-The gradient of apparent stiffness measured along the tube length in the apical region, has been attributed to a cell wall biochemical gradient \cite{Geitmann_2004a, Chebli_2012}, an effect of geometry and non-normal surface indentation \cite{Vogler_2012} or a convolution of both the previously mentioned effects \cite{Shamsudhin_2016}. 
+The gradient of apparent stiffness measured along the tube length in the apical region, has been attributed to a cell wall biochemical gradient \cite{Geitmann_2004a,Chebli_2012}, an effect of geometry and non-normal surface indentation \cite{Vogler_2012} or a convolution of both the previously mentioned effects \cite{Shamsudhin_2016}. 
 The deection of the tube resulted in an axial and lateral
 force acting on the sensor probe. The lateral forces came into
 dominance as soon as the tip of the tube was indented and
