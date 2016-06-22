@@ -13,6 +13,20 @@ The micro-indentation measurements on the integrated microfluidic-CFM system hav
 In optical and mechanical phenotyping assays, the ability to monitor individual pollen tube growth trajectories is crucial. The naturally three-dimensional and disordered growth of pollen tubes increases the time and complexity of optical measurements, as the operator has to constantly refocus in the z-plane to keep the tube in focus for long-term measurements. Additionally, the entangled growth makes it difficult to identify one tube from the other. Currently tube identification is mostly done manually, but a software algorithm called the fluorescent multi-pollen trajectory tracker was implemented by the group of Palinivelu as part of the Bioinformatics Toolset of the Pollen Research Coordination Network \cite{Cheung_2013}. This is primarily a tool for data post-processing and cannot identify the pollen tube trajectory in real-time. We demonstrated a robotic platform which utilized computer vision, for real-time tracking of pollen tubes and for control of the microindentor probe \cite{Felekis_2015}. In addition, the real-time system allowed for image mosaicing, that allows high resolution large workspace images to accomdate pollen tube that range from several micrometers to tens control  of millimeters in length. This mosaic stitching is made possible with a fixed camera-lens system and a moveable sample holder mounted on a dual-stage millimeter range positioner. For more details on  the hardware and software algorithm, the reader is referred to \cite{Felekis_2015}.
 
 ##2-axis Force Sensors
+
+The gradient of apparent stiffness measured along the tube length in the apical region, has been attributed to a cell wall biochemical gradient \cite{Geitmann_2004a, Chebli_2012}, an effect of geometry and non-normal surface indentation \cite{Vogler_2012} or a convolution of both the previously mentioned effects \cite{Shamsudhin_2016}. 
+The deection of the tube resulted in an axial and lateral
+force acting on the sensor probe. The lateral forces came into
+dominance as soon as the tip of the tube was indented and
+continued up to the rst four microns. After that, no lateral
+forces were detected. The appearance of lateral force signals
+at the hemispherical region of the tip is a clear indication that
+the contact geometry is not 90 and that there is a geometry
+effect which cannot be decoupled by using a single-axis
+force sensor. These promising results show the signicance
+of dual-force micro indentations and indicate the importance
+of further biological investigations using this device.
+
 For possible deconvolution of geometry and biochemical difference. 
 \cite{Burri2016a}
 
