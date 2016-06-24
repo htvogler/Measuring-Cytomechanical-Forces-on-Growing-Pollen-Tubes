@@ -1,7 +1,6 @@
 Introduction_On_their_way_to__.md
 General_Force_measurement_approaches_Measuring__.md
 Cellular_Force_Microscopy_including_RT__.md
-figures/FigAFM_CFM_curve/FigAFM_CFM_curve.png
 Improvements_Several_improvements_have_been__.md
 figures/Fig_LoC_CV_DualAxis/Fig_LoC_CV_DualAxis.png
 Alternative_approaches_Large_area_deformation__.md
