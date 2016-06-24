@@ -1,1 +1,1 @@
-Replace this text with your caption
+Sample force-indentation curves obtained with the CFM and AFM are shown for comparison. The measurement were made at the shank regions of two different lily pollen tubes. The CFM indentation depths reach upto 2 microns while the AFM indentation depths are in the range of 200 nanometers. 
