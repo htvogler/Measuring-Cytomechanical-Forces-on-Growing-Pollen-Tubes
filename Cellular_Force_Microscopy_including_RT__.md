@@ -1,6 +1,6 @@
-#Cellular Force Microscopy (including RT-CFM) and Atomic Force Microscopy
+#Cellular Force Microscopy (CFM)
 
-## CFM Introduction (Dimitris' and Kuhlemeier's Papers) ##
+## General considerations ##
 
 Mechanical measurements of plant cells and tissues imposes  various technical challenges. The assessment of different parameters, such as turgor pressure, cell wall stiffness or penetration forces, involve a wide range of forces from nanoNewtons to milliNewtons and requested a set of  several devices as discussed above. The topography of plant tissues makes it necessary to equip the force sensors with long probes and to have a wide z-positioning range to reach into the inclinations between turgid cells. A high degree of automation is important to create high-resolution stiffness maps and to measure a large number of samples. The cellular force microscope (CFM) combines the high level of automation and resolution as provided by AFM with the versatility of classic microindentation systems being able to measure in-plane elasticity, which is important to measure growth. The use of microelectromechanical systems (MEMS)-based force sensors allow to measure tissue regions that are difficult to reach with cantilever probes. The CFM probes demonstrate negligible hysteresis over their full range of operation and are individually calibrated from the supplier (FemtoTools AG, Switzerland).  Custom-made software allows the control of the positioner and reacts on sensor feedback.
 
