@@ -1,5 +1,5 @@
 Introduction_On_their_way_to__.md
-General_Force_measurement_approaches_Measuring__.md
+How_are_Cytomechanical_Parameters_Measured__.md
 Cellular_Force_Microscopy_CFM_General__.md
 figures/FigAFM_CFM_curve_screenshot/FigAFM_CFM_curve_screenshot.png
 Improvements_The_2D_real_time__.md
