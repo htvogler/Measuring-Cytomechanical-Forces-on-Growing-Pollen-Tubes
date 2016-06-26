@@ -4,4 +4,4 @@ Cellular_Force_Microscopy_CFM_General__.md
 figures/FigAFM_CFM_curve_screenshot/FigAFM_CFM_curve_screenshot.png
 Improvements_The_2D_Real_time__.md
 figures/Fig_LoC_CV_DualAxis/Fig_LoC_CV_DualAxis.png
-Alternative_approaches_Large_area_deformation__.md
+Conclusions_and_Further_Developments_Large__.md
