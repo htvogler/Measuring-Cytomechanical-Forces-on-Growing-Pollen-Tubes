@@ -6,5 +6,4 @@ Cellular_Force_Microscopy_CFM_General__.md
 figures/CFM_System/CFM_System.png
 figures/CFM_Curve/CFM_Curve.png
 Improvements_The_2D_Real_time__.md
-figures/Fig_LoC_CV_DualAxis/Fig_LoC_CV_DualAxis.png
 Conclusions_and_Further_Developments_On__.md
