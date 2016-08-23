@@ -7,4 +7,5 @@ figures/CFM_System/CFM_System.png
 figures/CFM_Curve/CFM_Curve.png
 Improvements_The_2D_Real_time__.md
 figures/Channels/Channels.png
+figures/2D_Sensor/2D_Sensor.png
 Conclusions_and_Further_Developments_On__.md
