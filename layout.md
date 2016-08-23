@@ -6,4 +6,5 @@ Cellular_Force_Microscopy_CFM_General__.md
 figures/CFM_System/CFM_System.png
 figures/CFM_Curve/CFM_Curve.png
 Improvements_The_2D_Real_time__.md
+figures/Channels/Channels.png
 Conclusions_and_Further_Developments_On__.md
