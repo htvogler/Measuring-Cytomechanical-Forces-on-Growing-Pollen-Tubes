@@ -1,1 +1,1 @@
-Replace this text with your caption
+A typical force against indentation plot from a CFM measurement taken in the tip region of a lily pollen tube. The apparent stiffness of the pollen tube, resulting from a combination of turgor pressure, cell wall stiffness and the cell's geometry, is calculated by applying a linear fit to the loading and/or unloading curve. Hysteresis suggests a degree of viscoelasticity in the cell wall.
